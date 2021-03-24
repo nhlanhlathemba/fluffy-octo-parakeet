@@ -1,0 +1,121 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="Hemisphere.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Hemishere</title>
+    <link href="css/style.css" rel="stylesheet" />
+    <link href="css/bootstrap (2).css" rel="stylesheet" />
+    <script src="js/jquery-2.1.4.min.js"></script>
+    <script src="js/jquery.jswipe-0.1.2.js"></script>
+     <add key="ValidationSettings:UnobtrusiveValidationMode" value="None" />
+</head>
+<body>
+    <form id="form1" runat="server">
+        <script src="js/bootstrap.js"></script>
+        
+            <div class="container-fluid">
+               <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+              
+
+                        <!--    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+                        </div> 
+                        <div class="collapse navbar-collapse" id="myNavbar">-->
+                            <ul class="nav navbar-nav">
+                                <li class="navbar-brand">Books Essentials</li>
+                                <li class ="nav-item active"><a href="Home.aspx"><span class="glyphicon glyphicon-home"></span></a></li>
+                                <li class ="nav-item "><a href="MyAccount.aspx"><span class="glyphicon glyphicon-folder-open"></span> My Profile</a></li>
+                                <li class ="nav-item "><a href="Comment.aspx"><span class="glyphicon glyphicon-comment"></span> Comment</a></li>
+                                <li class ="nav-item "><a href="AboutUs.aspx"><span class="glyphicon glyphicon-info-sign"></span> About Us</a></li>
+                                <li class ="nav-item "><a href="ContactUs.aspx"><span class="glyphicon glyphicon-phone-alt"></span> Contact Us</a></li>
+                            </ul>
+
+                            <ul class="nav navbar-nav navbar-right">
+                                <li class ="nav-item "><a href="#"><span class="glyphicon glyphicon-search"></span></a></li>
+                                <li  class ="nav-item " id="shoppingCart" runat="server"><a href="ShoppingCart.aspx"><span class="glyphicon glyphicon-shopping-cart"></span></a></li>
+                               <li  class ="nav-item " id="invoice" runat="server"><a href="Invoice.aspx"><span class="glyphicon glyphicon-list-alt"></span></a></li>
+
+                                <li  class ="nav-item " id="registerele"  runat="server"><a href="Registration.aspx"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
+                                <li  class ="nav-item " id="loginElement" runat="server"><a href="Login.aspx"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+                                <li><asp:LinkButton ID="LinkButton1" runat="server" OnClick="LinkButton1_Click"><span class="glyphicon glyphicon-off"></span> Logout</asp:LinkButton></li>
+                                <li><asp:Label style="font-size:small;" ID="lblWelcome" runat="server" cssclass="label label-info"></asp:Label></li>
+                            </ul>
+
+                        
+                    
+                </nav>
+                </div>
+                <!--
+                <div class="row-eq-height">
+                    <div class="col-md-3">
+                        <ul class="nav nav-pills nav-stacked">
+                           <li><a href="Home.aspx">Home</a></li>
+                           <li><asp:LinkButton ID="lnkBtnBooks" runat="server" OnClick="lnkBtnBooks_Click">Books</asp:LinkButton></li> 
+                            <li><asp:LinkButton ID="lnkBtnNovels" runat="server" OnClick="lnkBtnNovels_Click">Novels</asp:LinkButton></li>
+                            <li><asp:LinkButton ID="lnlBtnTextBooks" runat="server" OnClick="lnlBtnTextBooks_Click">TextBooks</asp:LinkButton></li>
+                        </ul>
+                    </div>
+                    -->
+                    <div class="col-md-6" runat="server" >
+
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server" >
+                           
+                        </asp:ContentPlaceHolder>
+                    </div>
+
+                    <div class="col-md-3">
+                        <div id="advertDiv" runat="server" style="padding: 5px 0 0 0">
+                            <video src="images/Gifs/ms%20surface%20book.mp4" autoplay="autoplay" width="310" height="400" loop="loop"/>
+                        </div>
+                        <div id="anchorAdvert" runat="server">
+                        
+                            </div>
+
+                        <div id="adminBar"  visible="false" runat="server" style="padding-top: -19px 0 0 0">
+                        <ul>
+                            <li><b><h4>Administration Menu</h4></b></li><br />
+                            
+                                <li><b>Product Management</b></li>
+                                <li><b><a href="ProductAddition.aspx">Product Addition</a></b></li><br />
+
+                                <li><b>User Management</b></li>
+                                <li><b><a href="Users.aspx">User Database</a></b></li>
+                             <br />
+
+                              <li><b>Comments</b></li>
+                              <li><b><a href="ViewComments.aspx">View Comments</a></b></li>
+
+                            <br />
+
+                              <li><b>Reporting</b></li>
+                              <li><b><a href="ProductReport.aspx">View Product Report</a></b></li>
+                              <li><b><a href="CommentReport.aspx">View Commenting Report</a></b></li>
+                              <li><b><a href="UserReport.aspx">View User Report</a></b></li>
+                             
+                        </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <footer>
+                    <div class="col-md-3a">
+                        <li>&nbsp;&nbsp;&nbsp; <a href="ContactUs.aspx"><span class="glyphicon glyphicon-phone-alt"></span> Contact Information
+                            </a></li>
+                    </div>
+                    <div class="col-md-3b" align="right">
+                        <li><a href="#top"><span class="glyphicon glyphicon-arrow-up"></span>Top</a></li>
+                        <div class="footer">
+                            <p>&copy; <%: DateTime.Now.Year %> - Book Essentials</p>
+                        </div>
+                    </div>
+                </footer>
+            </div>
+        </div>
+    </form>
+</body>
+</html>

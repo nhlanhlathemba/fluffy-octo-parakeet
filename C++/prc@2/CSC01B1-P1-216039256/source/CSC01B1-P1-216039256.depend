@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1502377493 source:c:\users\nhlanhla\documents\prc@2\csc01b1-p1-216039256\source\main.cpp
+	<iostream>
+	<vector>
+	"Image.h"
+	<cstdlib>
+
+1502379882 c:\users\nhlanhla\documents\prc@2\csc01b1-p1-216039256\source\image.h
+	<vector>
+

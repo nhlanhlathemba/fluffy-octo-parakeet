@@ -1,0 +1,19 @@
+body {
+    background-image: url("little-pony-background.jpg");
+}
+
+.nav-link {
+    font-size: large;
+}
+.txt{
+    font-size :medium;
+}
+
+.txtbox{
+    height:110px;
+}
+
+
+.glyphicon{
+    color:honeydew;
+}

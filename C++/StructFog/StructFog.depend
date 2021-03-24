@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1493882934 source:c:\users\coulterduncan\desktop\structfog\gamelib.cpp
+	"GameLib.h"
+	<cstdlib>
+	<iostream>
+	<sstream>
+
+1493883257 c:\users\coulterduncan\desktop\structfog\gamelib.h
+	<string>
+
+1493883082 source:c:\users\coulterduncan\desktop\structfog\main.cpp
+	<cstdlib>
+	<ctime>
+	<iostream>
+	"GameLib.h"
+
+1495564004 source:c:\users\nhlanhla\documents\structfog\structfog\gamelib.cpp
+	"GameLib.h"
+	<cstdlib>
+	<iostream>
+	<sstream>
+
+1495564003 c:\users\nhlanhla\documents\structfog\structfog\gamelib.h
+	<string>
+
+1493884536 source:c:\users\nhlanhla\documents\structfog\structfog\main.cpp
+	<cstdlib>
+	<ctime>
+	<iostream>
+	"GameLib.h"
+

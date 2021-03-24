@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1489918148 source:c:\users\nhlanhla\documents\academics\acsse\computer science\216039256_csc1a_p2017-03\source\main.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<string>
+

@@ -1,0 +1,304 @@
+C:\Users\Sibusiso Mac-D Zitha\Desktop\Mac-D\3rd Year\Informatics\2B\Practicals\Group Practical\Hemisphere\Hemisphere\bin\Hemisphere.dll.config
+C:\Users\Sibusiso Mac-D Zitha\Desktop\Mac-D\3rd Year\Informatics\2B\Practicals\Group Practical\Hemisphere\Hemisphere\bin\Hemisphere.dll
+C:\Users\Sibusiso Mac-D Zitha\Desktop\Mac-D\3rd Year\Informatics\2B\Practicals\Group Practical\Hemisphere\Hemisphere\bin\Hemisphere.pdb
+C:\Users\Sibusiso Mac-D Zitha\Desktop\Mac-D\3rd Year\Informatics\2B\Practicals\Group Practical\Hemisphere\Hemisphere\bin\roslyn\csc.exe
+C:\Users\Sibusiso Mac-D Zitha\Desktop\Mac-D\3rd Year\Informatics\2B\Practicals\Group Practical\Hemisphere\Hemisphere\bin\roslyn\csc.exe.config
+C:\Users\Sibusiso Mac-D Zitha\Desktop\Mac-D\3rd Year\Informatics\2B\Practicals\Group Practical\Hemisphere\Hemisphere\bin\roslyn\csc.rsp
+C:\Users\Sibusiso Mac-D Zitha\Desktop\Mac-D\3rd Year\Informatics\2B\Practicals\Group Practical\Hemisphere\Hemisphere\bin\roslyn\csi.exe
+C:\Users\Sibusiso Mac-D Zitha\Desktop\Mac-D\3rd Year\Informatics\2B\Practicals\Group Practical\Hemisphere\Hemisphere\bin\roslyn\csi.exe.config
+C:\Users\Sibusiso Mac-D Zitha\Desktop\Mac-D\3rd Year\Informatics\2B\Practicals\Group Practical\Hemisphere\Hemisphere\bin\roslyn\csi.rsp
+C:\Users\Sibusiso Mac-D Zitha\Desktop\Mac-D\3rd Year\Informatics\2B\Practicals\Group Practical\Hemisphere\Hemisphere\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sibusiso Mac-D Zitha\Desktop\Mac-D\3rd Year\Informatics\2B\Practicals\Group Practical\Hemisphere\Hemisphere\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sibusiso Mac-D Zitha\Desktop\Mac-D\3rd Year\Informatics\2B\Practicals\Group Practical\Hemisphere\Hemisphere\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sibusiso Mac-D Zitha\Desktop\Mac-D\3rd Year\Informatics\2B\Practicals\Group Practical\Hemisphere\Hemisphere\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sibusiso Mac-D Zitha\Desktop\Mac-D\3rd Year\Informatics\2B\Practicals\Group Practical\Hemisphere\Hemisphere\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sibusiso Mac-D Zitha\Desktop\Mac-D\3rd Year\Informatics\2B\Practicals\Group Practical\Hemisphere\Hemisphere\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sibusiso Mac-D Zitha\Desktop\Mac-D\3rd Year\Informatics\2B\Practicals\Group Practical\Hemisphere\Hemisphere\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sibusiso Mac-D Zitha\Desktop\Mac-D\3rd Year\Informatics\2B\Practicals\Group Practical\Hemisphere\Hemisphere\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sibusiso Mac-D Zitha\Desktop\Mac-D\3rd Year\Informatics\2B\Practicals\Group Practical\Hemisphere\Hemisphere\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sibusiso Mac-D Zitha\Desktop\Mac-D\3rd Year\Informatics\2B\Practicals\Group Practical\Hemisphere\Hemisphere\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sibusiso Mac-D Zitha\Desktop\Mac-D\3rd Year\Informatics\2B\Practicals\Group Practical\Hemisphere\Hemisphere\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Sibusiso Mac-D Zitha\Desktop\Mac-D\3rd Year\Informatics\2B\Practicals\Group Practical\Hemisphere\Hemisphere\bin\roslyn\System.AppContext.dll
+C:\Users\Sibusiso Mac-D Zitha\Desktop\Mac-D\3rd Year\Informatics\2B\Practicals\Group Practical\Hemisphere\Hemisphere\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sibusiso Mac-D Zitha\Desktop\Mac-D\3rd Year\Informatics\2B\Practicals\Group Practical\Hemisphere\Hemisphere\bin\roslyn\System.Console.dll
+C:\Users\Sibusiso Mac-D Zitha\Desktop\Mac-D\3rd Year\Informatics\2B\Practicals\Group Practical\Hemisphere\Hemisphere\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sibusiso Mac-D Zitha\Desktop\Mac-D\3rd Year\Informatics\2B\Practicals\Group Practical\Hemisphere\Hemisphere\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Sibusiso Mac-D Zitha\Desktop\Mac-D\3rd Year\Informatics\2B\Practicals\Group Practical\Hemisphere\Hemisphere\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sibusiso Mac-D Zitha\Desktop\Mac-D\3rd Year\Informatics\2B\Practicals\Group Practical\Hemisphere\Hemisphere\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sibusiso Mac-D Zitha\Desktop\Mac-D\3rd Year\Informatics\2B\Practicals\Group Practical\Hemisphere\Hemisphere\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sibusiso Mac-D Zitha\Desktop\Mac-D\3rd Year\Informatics\2B\Practicals\Group Practical\Hemisphere\Hemisphere\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Sibusiso Mac-D Zitha\Desktop\Mac-D\3rd Year\Informatics\2B\Practicals\Group Practical\Hemisphere\Hemisphere\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sibusiso Mac-D Zitha\Desktop\Mac-D\3rd Year\Informatics\2B\Practicals\Group Practical\Hemisphere\Hemisphere\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Sibusiso Mac-D Zitha\Desktop\Mac-D\3rd Year\Informatics\2B\Practicals\Group Practical\Hemisphere\Hemisphere\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sibusiso Mac-D Zitha\Desktop\Mac-D\3rd Year\Informatics\2B\Practicals\Group Practical\Hemisphere\Hemisphere\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Sibusiso Mac-D Zitha\Desktop\Mac-D\3rd Year\Informatics\2B\Practicals\Group Practical\Hemisphere\Hemisphere\bin\roslyn\System.Security.Claims.dll
+C:\Users\Sibusiso Mac-D Zitha\Desktop\Mac-D\3rd Year\Informatics\2B\Practicals\Group Practical\Hemisphere\Hemisphere\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sibusiso Mac-D Zitha\Desktop\Mac-D\3rd Year\Informatics\2B\Practicals\Group Practical\Hemisphere\Hemisphere\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sibusiso Mac-D Zitha\Desktop\Mac-D\3rd Year\Informatics\2B\Practicals\Group Practical\Hemisphere\Hemisphere\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sibusiso Mac-D Zitha\Desktop\Mac-D\3rd Year\Informatics\2B\Practicals\Group Practical\Hemisphere\Hemisphere\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sibusiso Mac-D Zitha\Desktop\Mac-D\3rd Year\Informatics\2B\Practicals\Group Practical\Hemisphere\Hemisphere\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Sibusiso Mac-D Zitha\Desktop\Mac-D\3rd Year\Informatics\2B\Practicals\Group Practical\Hemisphere\Hemisphere\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sibusiso Mac-D Zitha\Desktop\Mac-D\3rd Year\Informatics\2B\Practicals\Group Practical\Hemisphere\Hemisphere\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Sibusiso Mac-D Zitha\Desktop\Mac-D\3rd Year\Informatics\2B\Practicals\Group Practical\Hemisphere\Hemisphere\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sibusiso Mac-D Zitha\Desktop\Mac-D\3rd Year\Informatics\2B\Practicals\Group Practical\Hemisphere\Hemisphere\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sibusiso Mac-D Zitha\Desktop\Mac-D\3rd Year\Informatics\2B\Practicals\Group Practical\Hemisphere\Hemisphere\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sibusiso Mac-D Zitha\Desktop\Mac-D\3rd Year\Informatics\2B\Practicals\Group Practical\Hemisphere\Hemisphere\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sibusiso Mac-D Zitha\Desktop\Mac-D\3rd Year\Informatics\2B\Practicals\Group Practical\Hemisphere\Hemisphere\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sibusiso Mac-D Zitha\Desktop\Mac-D\3rd Year\Informatics\2B\Practicals\Group Practical\Hemisphere\Hemisphere\bin\roslyn\vbc.exe
+C:\Users\Sibusiso Mac-D Zitha\Desktop\Mac-D\3rd Year\Informatics\2B\Practicals\Group Practical\Hemisphere\Hemisphere\bin\roslyn\vbc.exe.config
+C:\Users\Sibusiso Mac-D Zitha\Desktop\Mac-D\3rd Year\Informatics\2B\Practicals\Group Practical\Hemisphere\Hemisphere\bin\roslyn\vbc.rsp
+C:\Users\Sibusiso Mac-D Zitha\Desktop\Mac-D\3rd Year\Informatics\2B\Practicals\Group Practical\Hemisphere\Hemisphere\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sibusiso Mac-D Zitha\Desktop\Mac-D\3rd Year\Informatics\2B\Practicals\Group Practical\Hemisphere\Hemisphere\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sibusiso Mac-D Zitha\Desktop\Mac-D\3rd Year\Informatics\2B\Practicals\Group Practical\Hemisphere\Hemisphere\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sibusiso Mac-D Zitha\Desktop\Mac-D\3rd Year\Informatics\2B\Practicals\Group Practical\Hemisphere\Hemisphere\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sibusiso Mac-D Zitha\Desktop\Mac-D\3rd Year\Informatics\2B\Practicals\Group Practical\Hemisphere\Hemisphere\obj\Debug\Hemisphere.csprojAssemblyReference.cache
+C:\Users\Sibusiso Mac-D Zitha\Desktop\Mac-D\3rd Year\Informatics\2B\Practicals\Group Practical\Hemisphere\Hemisphere\obj\Debug\Hemisphere.csproj.CoreCompileInputs.cache
+C:\Users\Sibusiso Mac-D Zitha\Desktop\Mac-D\3rd Year\Informatics\2B\Practicals\Group Practical\Hemisphere\Hemisphere\obj\Debug\Hemisphere.csproj.CopyComplete
+C:\Users\Sibusiso Mac-D Zitha\Desktop\Mac-D\3rd Year\Informatics\2B\Practicals\Group Practical\Hemisphere\Hemisphere\obj\Debug\Hemisphere.dll
+C:\Users\Sibusiso Mac-D Zitha\Desktop\Mac-D\3rd Year\Informatics\2B\Practicals\Group Practical\Hemisphere\Hemisphere\obj\Debug\Hemisphere.pdb
+C:\Users\Sibusiso Mac-D Zitha\Desktop\Mac-D\3rd Year\Informatics\2B\Practicals\Group Practical\Hemisphere\Hemisphere\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Sibusiso Mac-D Zitha\Desktop\Mac-D\3rd Year\Informatics\2B\Practicals\Group Practical\Hemisphere\Hemisphere\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\Sibusiso Mac-D Zitha\Desktop\Mac-D\3rd Year\Informatics\2B\Practicals\Group Practical\Hemisphere\Hemisphere\bin\Microsoft.ReportViewer.WebForms.DLL
+E:\Group Hemisphere\Hemisphere\Hemisphere\bin\Hemisphere.dll.config
+E:\Group Hemisphere\Hemisphere\Hemisphere\bin\Hemisphere.dll
+E:\Group Hemisphere\Hemisphere\Hemisphere\bin\Hemisphere.pdb
+E:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\csc.exe
+E:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\csc.exe.config
+E:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\csc.rsp
+E:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\csi.exe
+E:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\csi.exe.config
+E:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\csi.rsp
+E:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.AppContext.dll
+E:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.Collections.Immutable.dll
+E:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.Console.dll
+E:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.Diagnostics.Process.dll
+E:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.IO.Compression.dll
+E:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.IO.FileSystem.dll
+E:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.IO.Pipes.dll
+E:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.Reflection.Metadata.dll
+E:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.Security.AccessControl.dll
+E:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.Security.Claims.dll
+E:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.Threading.Thread.dll
+E:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.ValueTuple.dll
+E:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.Xml.XPath.dll
+E:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\vbc.exe
+E:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\vbc.exe.config
+E:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\vbc.rsp
+E:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\VBCSCompiler.exe
+E:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\VBCSCompiler.exe.config
+E:\Group Hemisphere\Hemisphere\Hemisphere\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Group Hemisphere\Hemisphere\Hemisphere\bin\Microsoft.ReportViewer.Common.dll
+E:\Group Hemisphere\Hemisphere\Hemisphere\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+E:\Group Hemisphere\Hemisphere\Hemisphere\bin\Microsoft.ReportViewer.WebForms.DLL
+E:\Group Hemisphere\Hemisphere\Hemisphere\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Group Hemisphere\Hemisphere\Hemisphere\obj\Debug\Hemisphere.csprojResolveAssemblyReference.cache
+E:\Group Hemisphere\Hemisphere\Hemisphere\obj\Debug\Hemisphere.csproj.CoreCompileInputs.cache
+E:\Group Hemisphere\Hemisphere\Hemisphere\obj\Debug\Hemisphere.dll
+E:\Group Hemisphere\Hemisphere\Hemisphere\obj\Debug\Hemisphere.pdb
+D:\Group Hemisphere\Hemisphere\Hemisphere\bin\Hemisphere.dll.config
+D:\Group Hemisphere\Hemisphere\Hemisphere\bin\Hemisphere.dll
+D:\Group Hemisphere\Hemisphere\Hemisphere\bin\Hemisphere.pdb
+D:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\csc.exe
+D:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\csc.exe.config
+D:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\csc.rsp
+D:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\csi.exe
+D:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\csi.exe.config
+D:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\csi.rsp
+D:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.AppContext.dll
+D:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.Collections.Immutable.dll
+D:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.Console.dll
+D:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.Diagnostics.Process.dll
+D:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.IO.Compression.dll
+D:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.IO.FileSystem.dll
+D:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.IO.Pipes.dll
+D:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.Reflection.Metadata.dll
+D:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.Security.AccessControl.dll
+D:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.Security.Claims.dll
+D:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.Threading.Thread.dll
+D:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.ValueTuple.dll
+D:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.Xml.XPath.dll
+D:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\vbc.exe
+D:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\vbc.exe.config
+D:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\vbc.rsp
+D:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\VBCSCompiler.exe
+D:\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\VBCSCompiler.exe.config
+D:\Group Hemisphere\Hemisphere\Hemisphere\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Group Hemisphere\Hemisphere\Hemisphere\bin\Microsoft.ReportViewer.Common.dll
+D:\Group Hemisphere\Hemisphere\Hemisphere\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\Group Hemisphere\Hemisphere\Hemisphere\bin\Microsoft.ReportViewer.WebForms.DLL
+D:\Group Hemisphere\Hemisphere\Hemisphere\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Group Hemisphere\Hemisphere\Hemisphere\obj\Debug\Hemisphere.csprojAssemblyReference.cache
+D:\Group Hemisphere\Hemisphere\Hemisphere\obj\Debug\Hemisphere.csproj.CoreCompileInputs.cache
+D:\Group Hemisphere\Hemisphere\Hemisphere\obj\Debug\Hemisphere.csproj.CopyComplete
+D:\Group Hemisphere\Hemisphere\Hemisphere\obj\Debug\Hemisphere.dll
+D:\Group Hemisphere\Hemisphere\Hemisphere\obj\Debug\Hemisphere.pdb
+C:\Users\Manqoba Makhoba\Downloads\Documents\Group Hemisphere\Hemisphere\Hemisphere\bin\Hemisphere.dll.config
+C:\Users\Manqoba Makhoba\Downloads\Documents\Group Hemisphere\Hemisphere\Hemisphere\bin\Hemisphere.dll
+C:\Users\Manqoba Makhoba\Downloads\Documents\Group Hemisphere\Hemisphere\Hemisphere\bin\Hemisphere.pdb
+C:\Users\Manqoba Makhoba\Downloads\Documents\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\csc.exe
+C:\Users\Manqoba Makhoba\Downloads\Documents\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\csc.exe.config
+C:\Users\Manqoba Makhoba\Downloads\Documents\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\csc.rsp
+C:\Users\Manqoba Makhoba\Downloads\Documents\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\csi.exe
+C:\Users\Manqoba Makhoba\Downloads\Documents\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\csi.exe.config
+C:\Users\Manqoba Makhoba\Downloads\Documents\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\csi.rsp
+C:\Users\Manqoba Makhoba\Downloads\Documents\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Manqoba Makhoba\Downloads\Documents\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Manqoba Makhoba\Downloads\Documents\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Manqoba Makhoba\Downloads\Documents\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Manqoba Makhoba\Downloads\Documents\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Manqoba Makhoba\Downloads\Documents\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Manqoba Makhoba\Downloads\Documents\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Manqoba Makhoba\Downloads\Documents\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Manqoba Makhoba\Downloads\Documents\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Manqoba Makhoba\Downloads\Documents\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Manqoba Makhoba\Downloads\Documents\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Manqoba Makhoba\Downloads\Documents\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.AppContext.dll
+C:\Users\Manqoba Makhoba\Downloads\Documents\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Manqoba Makhoba\Downloads\Documents\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.Console.dll
+C:\Users\Manqoba Makhoba\Downloads\Documents\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Manqoba Makhoba\Downloads\Documents\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Manqoba Makhoba\Downloads\Documents\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Manqoba Makhoba\Downloads\Documents\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.IO.Compression.dll
+C:\Users\Manqoba Makhoba\Downloads\Documents\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Manqoba Makhoba\Downloads\Documents\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Manqoba Makhoba\Downloads\Documents\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Manqoba Makhoba\Downloads\Documents\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Manqoba Makhoba\Downloads\Documents\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Manqoba Makhoba\Downloads\Documents\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Manqoba Makhoba\Downloads\Documents\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.Security.Claims.dll
+C:\Users\Manqoba Makhoba\Downloads\Documents\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Manqoba Makhoba\Downloads\Documents\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Manqoba Makhoba\Downloads\Documents\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Manqoba Makhoba\Downloads\Documents\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Manqoba Makhoba\Downloads\Documents\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Manqoba Makhoba\Downloads\Documents\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Manqoba Makhoba\Downloads\Documents\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Manqoba Makhoba\Downloads\Documents\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.ValueTuple.dll
+C:\Users\Manqoba Makhoba\Downloads\Documents\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Manqoba Makhoba\Downloads\Documents\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Manqoba Makhoba\Downloads\Documents\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Manqoba Makhoba\Downloads\Documents\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Manqoba Makhoba\Downloads\Documents\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\vbc.exe
+C:\Users\Manqoba Makhoba\Downloads\Documents\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\vbc.exe.config
+C:\Users\Manqoba Makhoba\Downloads\Documents\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\vbc.rsp
+C:\Users\Manqoba Makhoba\Downloads\Documents\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\VBCSCompiler.exe
+C:\Users\Manqoba Makhoba\Downloads\Documents\Group Hemisphere\Hemisphere\Hemisphere\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Manqoba Makhoba\Downloads\Documents\Group Hemisphere\Hemisphere\Hemisphere\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Manqoba Makhoba\Downloads\Documents\Group Hemisphere\Hemisphere\Hemisphere\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Manqoba Makhoba\Downloads\Documents\Group Hemisphere\Hemisphere\Hemisphere\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\Manqoba Makhoba\Downloads\Documents\Group Hemisphere\Hemisphere\Hemisphere\bin\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Manqoba Makhoba\Downloads\Documents\Group Hemisphere\Hemisphere\Hemisphere\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Manqoba Makhoba\Downloads\Documents\Group Hemisphere\Hemisphere\Hemisphere\obj\Debug\Hemisphere.csprojAssemblyReference.cache
+C:\Users\Manqoba Makhoba\Downloads\Documents\Group Hemisphere\Hemisphere\Hemisphere\obj\Debug\Hemisphere.csproj.CoreCompileInputs.cache
+C:\Users\Manqoba Makhoba\Downloads\Documents\Group Hemisphere\Hemisphere\Hemisphere\obj\Debug\Hemisphere.csproj.CopyComplete
+C:\Users\Manqoba Makhoba\Downloads\Documents\Group Hemisphere\Hemisphere\Hemisphere\obj\Debug\Hemisphere.dll
+C:\Users\Manqoba Makhoba\Downloads\Documents\Group Hemisphere\Hemisphere\Hemisphere\obj\Debug\Hemisphere.pdb
+C:\Users\HRMANAGER\Documents\Hemisphere\Hemisphere\bin\Hemisphere.dll.config
+C:\Users\HRMANAGER\Documents\Hemisphere\Hemisphere\bin\Hemisphere.dll
+C:\Users\HRMANAGER\Documents\Hemisphere\Hemisphere\bin\Hemisphere.pdb
+C:\Users\HRMANAGER\Documents\Hemisphere\Hemisphere\bin\roslyn\csc.exe
+C:\Users\HRMANAGER\Documents\Hemisphere\Hemisphere\bin\roslyn\csc.exe.config
+C:\Users\HRMANAGER\Documents\Hemisphere\Hemisphere\bin\roslyn\csc.rsp
+C:\Users\HRMANAGER\Documents\Hemisphere\Hemisphere\bin\roslyn\csi.exe
+C:\Users\HRMANAGER\Documents\Hemisphere\Hemisphere\bin\roslyn\csi.exe.config
+C:\Users\HRMANAGER\Documents\Hemisphere\Hemisphere\bin\roslyn\csi.rsp
+C:\Users\HRMANAGER\Documents\Hemisphere\Hemisphere\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HRMANAGER\Documents\Hemisphere\Hemisphere\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HRMANAGER\Documents\Hemisphere\Hemisphere\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HRMANAGER\Documents\Hemisphere\Hemisphere\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HRMANAGER\Documents\Hemisphere\Hemisphere\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HRMANAGER\Documents\Hemisphere\Hemisphere\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HRMANAGER\Documents\Hemisphere\Hemisphere\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HRMANAGER\Documents\Hemisphere\Hemisphere\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HRMANAGER\Documents\Hemisphere\Hemisphere\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HRMANAGER\Documents\Hemisphere\Hemisphere\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HRMANAGER\Documents\Hemisphere\Hemisphere\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HRMANAGER\Documents\Hemisphere\Hemisphere\bin\roslyn\System.AppContext.dll
+C:\Users\HRMANAGER\Documents\Hemisphere\Hemisphere\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HRMANAGER\Documents\Hemisphere\Hemisphere\bin\roslyn\System.Console.dll
+C:\Users\HRMANAGER\Documents\Hemisphere\Hemisphere\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HRMANAGER\Documents\Hemisphere\Hemisphere\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\HRMANAGER\Documents\Hemisphere\Hemisphere\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HRMANAGER\Documents\Hemisphere\Hemisphere\bin\roslyn\System.IO.Compression.dll
+C:\Users\HRMANAGER\Documents\Hemisphere\Hemisphere\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HRMANAGER\Documents\Hemisphere\Hemisphere\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\HRMANAGER\Documents\Hemisphere\Hemisphere\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HRMANAGER\Documents\Hemisphere\Hemisphere\bin\roslyn\System.IO.Pipes.dll
+C:\Users\HRMANAGER\Documents\Hemisphere\Hemisphere\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HRMANAGER\Documents\Hemisphere\Hemisphere\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\HRMANAGER\Documents\Hemisphere\Hemisphere\bin\roslyn\System.Security.Claims.dll
+C:\Users\HRMANAGER\Documents\Hemisphere\Hemisphere\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HRMANAGER\Documents\Hemisphere\Hemisphere\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HRMANAGER\Documents\Hemisphere\Hemisphere\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HRMANAGER\Documents\Hemisphere\Hemisphere\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HRMANAGER\Documents\Hemisphere\Hemisphere\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\HRMANAGER\Documents\Hemisphere\Hemisphere\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HRMANAGER\Documents\Hemisphere\Hemisphere\bin\roslyn\System.Threading.Thread.dll
+C:\Users\HRMANAGER\Documents\Hemisphere\Hemisphere\bin\roslyn\System.ValueTuple.dll
+C:\Users\HRMANAGER\Documents\Hemisphere\Hemisphere\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HRMANAGER\Documents\Hemisphere\Hemisphere\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HRMANAGER\Documents\Hemisphere\Hemisphere\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HRMANAGER\Documents\Hemisphere\Hemisphere\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HRMANAGER\Documents\Hemisphere\Hemisphere\bin\roslyn\vbc.exe
+C:\Users\HRMANAGER\Documents\Hemisphere\Hemisphere\bin\roslyn\vbc.exe.config
+C:\Users\HRMANAGER\Documents\Hemisphere\Hemisphere\bin\roslyn\vbc.rsp
+C:\Users\HRMANAGER\Documents\Hemisphere\Hemisphere\bin\roslyn\VBCSCompiler.exe
+C:\Users\HRMANAGER\Documents\Hemisphere\Hemisphere\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HRMANAGER\Documents\Hemisphere\Hemisphere\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HRMANAGER\Documents\Hemisphere\Hemisphere\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\HRMANAGER\Documents\Hemisphere\Hemisphere\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\HRMANAGER\Documents\Hemisphere\Hemisphere\bin\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\HRMANAGER\Documents\Hemisphere\Hemisphere\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HRMANAGER\Documents\Hemisphere\Hemisphere\obj\Debug\Hemisphere.csproj.CoreCompileInputs.cache
+C:\Users\HRMANAGER\Documents\Hemisphere\Hemisphere\obj\Debug\Hemisphere.csproj.CopyComplete
+C:\Users\HRMANAGER\Documents\Hemisphere\Hemisphere\obj\Debug\Hemisphere.dll
+C:\Users\HRMANAGER\Documents\Hemisphere\Hemisphere\obj\Debug\Hemisphere.pdb
+C:\Users\HRMANAGER\Documents\Hemisphere\Hemisphere\obj\Debug\Hemisphere.csprojAssemblyReference.cache

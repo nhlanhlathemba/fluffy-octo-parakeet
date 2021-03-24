@@ -1,0 +1,61 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="Hemisphere.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>My little store</title>
+    <link rel="stylesheet" href="css/global.css" type="text/css" />
+     <link rel="stylesheet" href="css/bootstrap.css" type="text/css" />
+       <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css" />
+      
+</head>
+<body >
+<    <form id="form2" runat="server">
+<div>
+<nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+  <a class="navbar-brand" href="index.aspx"><img class="img-responsive2"       
+       src="images/logo.png"  width="70" height="50" >My Little Store</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarColor01">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active"><a class="nav-link" href="index.aspx">Home <span class="sr-only">(current)</span></a></li>
+      <li class ="nav-item "><a class="nav-link" href="MyAccount.aspx"> My Profile</a></li>
+      <li class ="nav-item" id="comment" runat="server" ><a class="nav-link" href="Comment.aspx"> Comment</a></li>
+      <li class ="nav-item " id="about" runat ="server" ><a class="nav-link" href="AboutUs.aspx"> About Us</a></li>
+      <li class ="nav-item " id ="contact" runat="server"><a class="nav-link" href="ContactUs.aspx"> Contact Us</a></li>
+      <li class ="nav-item " id ="admin" runat="server" visible ="false"><a class="nav-link" href="admin.aspx"> Admin</a></li>
+    </ul>
+   
+        <ul class ="navbar navbar-nav navbar-right">
+           <!--  <li class ="nav-item "><a href="#"><span class="glyphicon glyphicon-search"></span></a></li> -->
+
+            <li  class ="nav-item " id="Cart" runat="server"><a class="nav-link" href="ShoppingCart.aspx"><span class="glyphicon glyphicon-shopping-cart"></span></a></li>
+             <li  class ="nav-item " id="invce" runat="server"><a class="nav-link" href="Invoice.aspx"><span class="glyphicon glyphicon-list-alt"></span></a></li>
+
+            <li  class ="nav-item " id="registerele"  runat="server"><a class="nav-link" href="Registration.aspx"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
+            <li class="nav-item" id="login" runat="server"><a class="nav-link" href="Login.aspx">Login</a></li>
+            <li><asp:LinkButton ID="LinkButton1" runat="server" OnClick="LinkButton1_Click" cssclass ="nav-item nav-link"><span class="glyphicon glyphicon-off"></span> Logout</asp:LinkButton></li>
+            <li><asp:Label style="font-size:small;" ID="lblWelcome" runat="server" cssclass="label label-info"></asp:Label></li>
+         </ul>
+    
+   <!--   <ul class ="navbar navbar-nav navbar-right">
+            <li class="nav-item" id="loginElement" runat="server"><a class="nav-link" href="Login.aspx">Login</a></li>
+            <li  class ="nav-item " id="shoppingCart" runat="server"><a href="ShoppingCart.aspx"><span class="glyphicon glyphicon-shopping-cart"></span></a></li>
+             <li  class ="nav-item " id="invoice" runat="server"><a class="nav-link" href="Invoice.aspx"><span class="glyphicon glyphicon-list-alt"></span></a></li>
+      </ul> -->
+  </div>
+</nav>
+</div>
+        
+       <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    
+ </form>
+</body>
+</html>

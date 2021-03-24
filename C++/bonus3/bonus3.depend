@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1494973791 source:c:\users\nhlanhla\documents\bonus3\main.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+	<string>
+	<sstream>
+	<cmath>
+

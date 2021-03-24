@@ -1,0 +1,22 @@
+﻿ <div class="collapse navbar-collapse" id="navbarColor01">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active"><a class="nav-link" href="index.aspx">Home <span class="sr-only">(current)</span></a></li>
+      <li class ="nav-item "><a class="nav-link" href="MyAccount.aspx"> My Profile</a></li>
+      <li class ="nav-item "><a class="nav-link" href="Comment.aspx"> Comment</a></li>
+      <li class ="nav-item "><a class="nav-link" href="AboutUs.aspx"> About Us</a></li>
+      <li class ="nav-item "><a class="nav-link" href="ContactUs.aspx"> Contact Us</a></li>
+   
+    </ul>
+   
+        <ul class ="navbar navbar-nav navbar-right">
+            <li class="nav-item" id="login" runat="server"><a class="nav-link" href="Login.aspx">Login</a></li>
+            <li  class ="nav-item " id="Cart" runat="server"><a href="ShoppingCart.aspx"><span class="glyphicon glyphicon-shopping-cart"></span></a></li>
+             <li  class ="nav-item " id="invce" runat="server"><a class="nav-link" href="Invoice.aspx"><span class="glyphicon glyphicon-list-alt"></span></a></li>
+         </ul>
+    
+   <!--   <ul class ="navbar navbar-nav navbar-right">
+            <li class="nav-item" id="loginElement" runat="server"><a class="nav-link" href="Login.aspx">Login</a></li>
+            <li  class ="nav-item " id="shoppingCart" runat="server"><a href="ShoppingCart.aspx"><span class="glyphicon glyphicon-shopping-cart"></span></a></li>
+             <li  class ="nav-item " id="invoice" runat="server"><a class="nav-link" href="Invoice.aspx"><span class="glyphicon glyphicon-list-alt"></span></a></li>
+      </ul> -->
+  </div>

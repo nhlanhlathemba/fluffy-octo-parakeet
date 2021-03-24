@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1509047249 source:c:\users\nhlanhla\documents\bonus1b\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+
